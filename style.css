@@ -824,13 +824,13 @@ h4 {
 }*/
 
 .bg-banniere {
-    background-image: url("img/banniere1.jpg");
+    background-image: url("img/banniere1.webp");
     height: 450px;
     width: 100%;
 }
 
 .bg-presentation {
-    background-image: url("img/presentation1.jpg");
+    background-image: url("img/presentation1.webp");
      height: 450px;
     width: 100%;
 }
